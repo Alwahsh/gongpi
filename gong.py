@@ -6,8 +6,8 @@ import time
 import thread
 
 PIN = 4
-LEFT = 500
-RIGHT = 2500
+LEFT = 1000
+RIGHT = 2000
 CENTER = LEFT + ((RIGHT - LEFT)/2)
 STEP=100
 SLEEP=0.01
